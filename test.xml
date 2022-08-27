@@ -1,0 +1,19 @@
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<class>
+  <student>
+    <firstname>Anudeep</firstname>
+    <lastname>Dexter</lastname>
+    <sex>male</sex>
+  </student>
+   <student>
+    <firstname>Alice</firstname>
+    <lastname>Munro</lastname>
+    <sex>Female</sex>
+  </student>
+   <student>
+    <firstname>Debbie</firstname>
+    <lastname>Macomber</lastname>
+    <sex>Female</sex>
+  </student>
+  
+  </class>
